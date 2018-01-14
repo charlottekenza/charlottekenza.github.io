@@ -1,0 +1,21 @@
+.img-width-fix {
+	max-width: 100%; 
+
+}
+
+body { 
+	background-image: url( "../img/pinkpolka.jpg");
+	background-color: #cccccc; 
+}
+
+.fa-facebook {
+	color: #AD5386;
+}
+
+.fa-linkedin-square {color: #AD5386
+
+}
+
+.fa-instagram {color: #AD5386
+
+}
