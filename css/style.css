@@ -8,6 +8,9 @@ body {
 	background-color: #cccccc; 
 }
 
+body {font-family: 'Julius Sans One', sans-serif;
+}
+
 .fa-facebook {
 	color: #AD5386;
 }
